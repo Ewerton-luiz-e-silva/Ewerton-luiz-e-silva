@@ -9,4 +9,6 @@
 
 ### Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ewerton-luiz-e-silva&repo=meu-portf-lio.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Linguagens utilizadas
