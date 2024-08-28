@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-###### Sobre o Pedro
+###### Sobre mim.
 
 Ewerton Luiz e Silva - Full Stack Developer
 Bem-vindo ao meu GitHub! Sou um desenvolvedor full stack com paixão por criar soluções web dinâmicas e responsivas. Aqui, você encontrará uma coleção dos meus projetos que demonstram minhas habilidades em diversas tecnologias.
